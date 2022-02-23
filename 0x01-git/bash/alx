@@ -1,6 +1,15 @@
 #!/bin/bash
+echo "ALX School"
+
+
+#!/bin/bash
 echo "ALX School is so cool"
 
 #!/bin/bash
 echo "ALX"
 
+
+=======
+>>>>>>> d62acad25546471510365415159be637b4d5ad15
+>>>>>>> master
+>>>>>>> update_script
